@@ -1,11 +1,9 @@
 {
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
-  "movies": 
-    { "id": "1", "title": "AuLCoffe adalah sebuah coffeshop yang menyediakan banyak menu." },
-    { "id": "2", "title": "dengan banyak rasa, dan setiap rasanya selalu memiliki cerita." },
-    { "id": "3", "title": "Coffe yang selalu dicari." }
-
-
+  "movies": [
+    { "id": "1", "title": "Aulcoffe adalah sebuah coffeshop." },
+    { "id": "2", "title": "yang menyedikan banyak menu." },
+    { "id": "3", "title": "dengan berbagai rasa." }
   ]
 }
